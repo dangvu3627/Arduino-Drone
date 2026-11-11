@@ -12,6 +12,7 @@ This project was built and inspired by:
 <img src="Test%20Footage/Early%20Stage%20Drone%20+%20Controller.jpeg" alt="Early Development" width="300">
 - Final Result:
 <img src="Test%20Footage/drone-test.jpg" alt="Final Result" width="300">
+
 https://github.com/dangvu3627/Arduino-Drone/issues/2
 
 **Core Component & Firmware:**
