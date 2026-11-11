@@ -8,7 +8,8 @@ This project was built and inspired by:
 ***
 
 **Footages:**
-- ![Early Development](Test Footage/Early Stage Drone + Controller.jpeg)
+- ![Early Development](Test%20Footage/Early%20Stage%20Drone%20+%20Controller.jpeg)
+
 
 **Core Component & Firmware:**
 - MultiWii_2_4: Open-source legacy firmware for Arduino-based drone.
