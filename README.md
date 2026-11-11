@@ -7,6 +7,9 @@ This project was built and inspired by:
 - Radio controller [tutorial](https://youtu.be/Sa6EslOHsI0?si=YmZvxvT938MjAr4-) by Max Imagination.
 ***
 
+**Footages:**
+- ![Early Development](Test Footage/Early Stage Drone + Controller.jpeg)
+
 **Core Component & Firmware:**
 - MultiWii_2_4: Open-source legacy firmware for Arduino-based drone.
 - MPU6050: Accelerometer.
