@@ -1,4 +1,17 @@
-# Arduino Drone
+# Arduino Drone 
+
+*This repo only contains firmware of this project*
+
+This project was built and inspired by:
+- 3-part drone [tutorial](https://youtu.be/S8TSkGQ2EWY?si=e3Gy7zZqBOBkJV40) from Electronoobs.
+- Radio controller [tutorial](https://youtu.be/Sa6EslOHsI0?si=YmZvxvT938MjAr4-) by Max Imagination.
+***
+
+**Core Component & Firmware:**
+- MultiWii_2_4: Open-source legacy firmware for Arduino-based drone.
+- MPU6050: Accelerometer.
+- nRF24L01: Radio Transceiver Module.
+- Arduino Nano: Main MCU on the drone and the radio controller.
 
 ## Directory structure
 
