@@ -13,7 +13,7 @@ This project was built and inspired by:
 - Final Result:
 <img src="Test%20Footage/drone-test.jpg" alt="Final Result" width="300">
 
-https://github.com/dangvu3627/Arduino-Drone/issues/2
+-Demo video: https://github.com/dangvu3627/Arduino-Drone/issues/2
 
 **Core Component & Firmware:**
 - MultiWii_2_4: Open-source legacy firmware for Arduino-based drone.
